@@ -1,0 +1,12 @@
+{
+  "name": "web-page-blog-avatar-gen",
+  "version": "1.0.0",
+  "description": "Avatar generation script for JohnathenWigfall.jpg",
+  "private": true,
+  "scripts": {
+    "generate-avatar": "node scripts/generate-avatar.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
